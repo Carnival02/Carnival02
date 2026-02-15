@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carnival02&label=Profile%20views&color=0e75b6&style=flat" alt="carnival02" /> </p>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Full stack Developer**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Building things**
 
 - 💬 Ask me about **ReactJS, Nodejs, Databases**
 
